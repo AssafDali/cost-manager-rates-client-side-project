@@ -1,1 +1,0 @@
-# cost-manager-rates-client-side-project
